@@ -1,1 +1,2 @@
-def test():
+def test()-> None:
+    fizz_buzz()
